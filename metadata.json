@@ -1,0 +1,5 @@
+{
+  "name": "QuickBite Local",
+  "description": "A modern discovery and advertising platform for local fast food vendors, street food sellers, and small takeaway businesses.",
+  "requestFramePermissions": ["geolocation"]
+}
